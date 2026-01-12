@@ -5,8 +5,7 @@
 "use strict"
 
 let config = {
-    type: Phaser.AUTO,
-    scene: [  ]
+    type: Phaser.AUTO
 }
 
 let game = new Phaser.Game(config)
